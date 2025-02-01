@@ -1,2 +1,2 @@
-# LangFuse
-LangFuse
+# LLM Security
+LLM Observability
